@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'DcrownB_Kao',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: ' Hard work betrays none. ',
 
   // social usernames (optional)
   twitter: '',
