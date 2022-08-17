@@ -5,14 +5,14 @@ import styles from './styles.module.css'
 
 export const GitHubShareButton: React.FC = () => {	
   return (	
-    /*<a	
+    <a	
       href='#'	
       target='_blank'	
       rel='noopener noreferrer'	
       className={styles.githubCorner}	
       aria-label='View source on GitHub'	
-    >*/	
-      /*<svg	
+    >	
+      <svg	
         width='80'	
         height='80'	
         viewBox='0 0 250 250'	
@@ -44,6 +44,6 @@ export const GitHubShareButton: React.FC = () => {
           className={styles.octoBody}	
         />	
       </svg>	
-    </a>*/	
+    </a>	
   )	
 }
